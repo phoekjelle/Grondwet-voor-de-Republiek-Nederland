@@ -37,7 +37,7 @@ Iedereen heeft aangeboren waardigheid. Zij is onvervreemdbaar; de staat bescherm
 1. Iedereen heeft recht op lichamelijke en geestelijke integriteit.
 2. Niemand mag tegen diens vrije en geïnformeerde wil aan een medische behandeling of een wetenschappelijke onderzoek worden onderworpen.
 
-### Artikel 9
+### Artikel 10
 Iedereen heeft recht op vrijheid en persoonlijke veiligheid. Niemands vrijheid mag worden ontnomen, behalve volgens een bij de wet bepaalde procedure in het geval van:
 1. rechtmatige detentie na veroordeling van een daartoe bevoegde rechter;
 2. rechtmatige arrestatie of detentie, wegens het niet opvolgen van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel of teneinde de nakoming van een door een wettelijke regeling voorgeschreven uitdrukkelijke verplichting te verzekeren;

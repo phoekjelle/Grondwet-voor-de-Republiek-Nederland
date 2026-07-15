@@ -14,11 +14,10 @@ Overheidsinstellingen bezitten alleen bevoegdheden die hun uitdrukkelijk bij of 
 
 ### Artikel 4
 1. De volgende Grondrechten binden alle wetgevende, uitvoerende en rechterlijke machten als rechtstreeks toepasbaar recht.
-2. Zij mogen niet worden uitgelegd als beperking van de overige door het volk verworven rechten.
+2. Zij mogen niet worden uitgelegd als beperking van de door verdragen verworven rechten, behoudens de bepalingen in het derde en vierde lid van artikel 5.
 
 ### Artikel 5
-1. De staat mag niemand oneerlijk discrimineren op grond van ras, kleur, geslacht, gender, etnische of maatschappelijke herkomst, burgerlijke stand, zwangerschap, erfelijke eigenschappen, handicap, godsdienst, levensbeschouwing, geweten, cultuur, taal of geboorte.
-2. Discriminatie op een bovengenoemde grond is eerlijk indien wordt vastgesteld dat zij een legitiem doel dient en proportioneel is ten opzichte van dat doel.
+1. 
 
 ### Artikel 6
 Iedereen heeft aangeboren waardigheid. Zij is onvervreemdbaar; de staat beschermt haar.

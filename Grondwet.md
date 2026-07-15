@@ -44,14 +44,14 @@ Iedereen heeft aangeboren menselijke waardigheid. Zij is onschendbaar; de staat 
 ### Artikel 9
 Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of vernederende behandeling of straf.
 
-### Artikel 9
+### Artikel 10
 1. Iedereen heeft recht op lichamelijke en geestelijke integriteit.
 2. Niemand mag aan een medische behandeling of een wetenschappelijk onderzoek worden onderworpen zonder de vrije en geïnformeerde toestemming van de betrokkene.
 3. Eugenetische praktijken zijn verboden.
 
 ## § 4. Vrijheden
 
-### Artikel 10
+### Artikel 11
 Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid kan aan niemand worden ontnomen, behalve volgens een bij de wet bepaalde procedure un het geval van:
 
 

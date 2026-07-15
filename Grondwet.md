@@ -19,19 +19,24 @@ Overheidsinstellingen bezitten alleen bevoegdheden die hun uitdrukkelijk bij of 
 ### Artikel 5
 1. Alle mensen zijn gelijk voor de wet.
 2. De staat mag niemand benadelen of bevoordelen op grond van ras, kleur, geslacht, gender, etnische of sociale afkomst, het behoren tot een nationale minderheid, geboorte, genetische kenmerken, handicap, zwangerschap of seksuele gerichtheid.
-3. 
+3. De bevoordeling van de positie van personen of categorieën personen op een grond van het tweede lid is toegestaan, indien wordt vastgesteld dat zij een legitiem doel dient en proportioneel is ten opzichte van dat doel.
+4. Ingevolge het derde lid bevordert de staat de positie van personen of categorieën personen, die worden benadeld door feitelijke discriminatie, met als doel de bestaande nadelen weg te nemen.
+
 ### Artikel 6
 Iedereen heeft aangeboren menselijke waardigheid. Zij is onschendbaar; de staat beschermt haar.
 
 ### Artikel 7
-1. Aan niemand mag wederrechtelijk het leven worden ontnomen.
-2. De staat mag niemand aan onredelijk of disproportioneel geweld onderwerpen.
-3. De doodstraf en executies zijn verboden.
+1. Iedereen heeft recht op leven. De wet beschermt dit recht.
+2. Niemand mag worden onderworpen aan onrechtmatig of disproportioneel geweld.
+3. De doodstraf mag niet worden opgelegd of uitgevoerd.
 
 ### Artikel 8
-1. Slavernij, horigheid en mensenhandel zijn verboden.
-2. Dwangarbeid en verplichte arbeid zijn verboden.
-3. Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of vernederende behandeling of straf.
+1. Niemand mag in slavernij of horigheid worden gehouden.
+2. Niemand mag worden gedwongen dwangarbeid of verplichte arbeid te verrichten.
+3. Mensenhandel is verboden.
+
+### Artikel 9
+Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of vernederende behandeling of straf.
 
 ### Artikel 9
 1. Iedereen heeft recht op lichamelijke en geestelijke integriteit.

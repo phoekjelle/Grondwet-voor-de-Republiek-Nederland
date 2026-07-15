@@ -12,15 +12,21 @@ Overheidsinstellingen bezitten alleen bevoegdheden die hun uitdrukkelijk bij of 
 
 # Hoofdstuk 2. Grondrechten
 
+## § 1. Algemeen
+
 ### Artikel 4
 1. De volgende Grondrechten binden alle wetgevende, uitvoerende en rechterlijke machten als rechtstreeks toepasbaar recht.
 2. Zij mogen niet worden uitgelegd als beperking van de door verdragen verworven rechten, behoudens de bepalingen in het derde en vierde lid van artikel 5.
+
+## § 2. Gelijkheid
 
 ### Artikel 5
 1. Alle mensen zijn gelijk voor de wet.
 2. De staat mag niemand benadelen of bevoordelen op grond van ras, kleur, geslacht, gender, etnische of sociale afkomst, het behoren tot een nationale minderheid, geboorte, genetische kenmerken, handicap, zwangerschap of seksuele gerichtheid.
 3. De bevoordeling van de positie van personen of categorieën personen op een grond van het tweede lid is toegestaan, indien wordt vastgesteld dat zij een legitiem doel dient en proportioneel is ten opzichte van dat doel.
 4. Ingevolge het derde lid bevordert de staat de positie van personen of categorieën personen, die worden benadeld door feitelijke discriminatie, met als doel de bestaande nadelen weg te nemen.
+
+## § 3. Waardigheid
 
 ### Artikel 6
 Iedereen heeft aangeboren menselijke waardigheid. Zij is onschendbaar; de staat beschermt haar.
@@ -40,9 +46,15 @@ Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of verne
 
 ### Artikel 9
 1. Iedereen heeft recht op lichamelijke en geestelijke integriteit.
-2. Niemand mag tegen diens vrije en geïnformeerde wil aan een medische behandeling of een wetenschappelijke onderzoek worden onderworpen.
+2. Niemand mag aan een medische behandeling of een wetenschappelijk onderzoek worden onderworpen zonder de vrije en geïnformeerde toestemming van de betrokkene.
+3. Eugenetische praktijken zijn verboden.
+
+## § 4. Vrijheden
 
 ### Artikel 10
+Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid kan aan niemand worden ontnomen, behalve volgens een bij de wet bepaalde procedure un het geval van:
+
+
 Iedereen heeft recht op vrijheid en persoonlijke veiligheid. Niemands vrijheid mag worden ontnomen, behalve volgens een bij de wet bepaalde procedure in het geval van:
 1. rechtmatige detentie na veroordeling van een daartoe bevoegde rechter;
 2. rechtmatige arrestatie of detentie, wegens het niet opvolgen van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel of teneinde de nakoming van een door een wettelijke regeling voorgeschreven uitdrukkelijke verplichting te verzekeren;

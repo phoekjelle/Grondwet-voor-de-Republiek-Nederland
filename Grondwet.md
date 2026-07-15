@@ -17,8 +17,9 @@ Overheidsinstellingen bezitten alleen bevoegdheden die hun uitdrukkelijk bij of 
 2. Zij mogen niet worden uitgelegd als beperking van de door verdragen verworven rechten, behoudens de bepalingen in het derde en vierde lid van artikel 5.
 
 ### Artikel 5
-1. 
-
+1. Alle mensen zijn gelijk voor de wet.
+2. De staat mag niemand benadelen of bevoordelen op grond van ras, kleur, geslacht, gender, etnische of sociale afkomst, het behoren tot een nationale minderheid, geboorte, genetische kenmerken, handicap, zwangerschap of seksuele gerichtheid.
+3. 
 ### Artikel 6
 Iedereen heeft aangeboren waardigheid. Zij is onvervreemdbaar; de staat beschermt haar.
 

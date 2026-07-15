@@ -21,7 +21,7 @@ Overheidsinstellingen bezitten alleen bevoegdheden die hun uitdrukkelijk bij of 
 2. De staat mag niemand benadelen of bevoordelen op grond van ras, kleur, geslacht, gender, etnische of sociale afkomst, het behoren tot een nationale minderheid, geboorte, genetische kenmerken, handicap, zwangerschap of seksuele gerichtheid.
 3. 
 ### Artikel 6
-Iedereen heeft aangeboren waardigheid. Zij is onvervreemdbaar; de staat beschermt haar.
+Iedereen heeft aangeboren menselijke waardigheid. Zij is onschendbaar; de staat beschermt haar.
 
 ### Artikel 7
 1. Aan niemand mag wederrechtelijk het leven worden ontnomen.

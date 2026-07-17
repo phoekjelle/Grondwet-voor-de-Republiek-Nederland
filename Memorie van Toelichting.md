@@ -1,10 +1,5 @@
-# Hoofdstuk 1
-Het eerste hoofdstuk zet het doel van de Grondwet uiteen: de bescherming van de democratische rechtsorde.
+# Aanleiding tot wijziging grondwet
+Aanleiding is het verwerpen van de huidige rechtsorde gebaseerd op het tijdens het Congres van Wenen opgerichte Verenigd Koninkrijk der Nederlanden met de familie Van Oranje-Nassau als erfelijk staatshoofd. Wij, de Nederlanders, willen onszelf regeren, en niet geleid worden door een Koning. Het vasthouden aan de monarchie als instituut in het Nederlandse staatsbestel is niet te rijmen met de democratische principes van: de volkssoevereiniteit, omdat de vorst alle wetten en regeringsbesluiten (mede) ondertekent; het gelijkheidsbeginsel, omdat één familie voorgetrokken wordt met publieke gelden; en de scheiding der machten, omdat de Koning voorzitter is van de Raad van State, dat rechtspreekt, de wetgever adviseert én de regering adviseert, tegelijkertijd.
+Ook geeft de huidige grondwet onvoldoende beschermingen tegen misbruik van de macht van de staat, de grondrechten zijn erin onvoldoende gewaarborgd vergeleken met de Grondwet van Duitsland, België of Frankrijk, en met de internationale verdragen zoals het Europese Verdrag voor de Rechten van de Mens en het Handvest van de Grondrechten van de Europese Unie.
 
-### Artikel 1
-De beginselen van de democratische rechtsstaat zijn onvervreemdbaar, hiermee hoopt de Grondwetschrijver anarchie of tirannie te verkómen.
-
-### Artikel 2
-Artikel 2 beoogt het toetsingsverbod van artikel 120 van de huidige Grondwet op te heffen. In een later hoofdstuk zal de constitutionele toetsing verder worden uitgewerkt.
-
-##§ 
+# Hoofdstuk 1. Algemene bepalingen

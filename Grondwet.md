@@ -54,11 +54,15 @@ Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of verne
 1. Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid mag aan niemand worden ontnomen, anders dan volgens de bij de wet bepaalde procedure in het geval van:
    - a. de rechtmatige detentie van de persoon aan wie een daartoe bevoegde rechter voorafgaand een veroordeling tot detentie heeft opgelegd;
    - b. de rechtmatige arrestatie of detentie van een persoon, wegens:
-      - het niet naleven van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel,
+      - het niet naleven van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel;
       - teneinde nakoming van een door een wettelijke regeling voorgeschreven uitdrukkelijke verplichting te verzekeren;
    - c. de rechtmatige arrestatie of detentie van een persoon teneinde voor de bevoegde rechterlijke instatie te worden geleid, wanneer er redelijke gronden zijn om te vermoeden, dat diegene een strafbaar feit heeft begaan, of indien er redelijke gronden zijn om aan te nemen, dat het noodzakelijk is om diegene te beletten:
-      - om een strafbaar feit te begaan,
-      - om te ontvluchten, nadat diegene een strafbaar feit heeft begaan,
+      - om een strafbaar feit te begaan;
+      - om te ontvluchten, nadat diegene een strafbaar feit heeft begaan;
       - om het strafrechtelijk onderzoek in gevaar te brengen;
    - d. de rechtmatige detentie van een minderjarige met als doel in te grijpen in de opvoeding op last van een door een daartoe bevoegde rechter gegeven met reden bekleed bevel, of de rechtmatige detentie van een minderjarige teneinde diegene voor de bevoegde instantie te geleiden;
    - e. de rechtmatige detentie van een persoon teneinde diegene te beletten op onrechtmatige wijze het land binnen te komen, of indien tegen diegene een uitwijzings- of uitleveringsprocedure hangende is.
+2. Iedereen die is gearresteerd moet onverwijld en in een taal die diegene verstaat op de hoogte worden gebracht van de redenen van de arrestatie en van alle beschuldigingen die tegen diegene zijn ingebracht.
+3. Iedereen die is gearresteerd of gedeteneerd overeenkomstig het eerste lid, onder c. van dit artikel, moet onverwijld voor een daartoe bevoegde rechter worden geleid en heeft het recht om spoedig en binnen tweeënzeventig uur berecht te worden of hangende het proces in vrijheid te worden gesteld. De invrijheidstelling kan afhankelijk worden gesteld van een waarborg voor de verschijning van de betrokkene ter terechtzitting.
+4. Iedereen aan wie door arrestatie of detentie of anderzijds de vrijheid is ontnomen, heeft het recht voorziening te vragen bij het gerecht opdat deze spoedig en binnen tweeënzeventig uur beslist over de rechtmatigheid van zijn detentie en zijn invrijheidstelling beveelt, indien de detentie onrechtmatig is.
+5. Iedereen die het slachtoffer is geweest van een arrestatie of een detentie in strijd met de bepalingen van dit artikel, heeft recht op schadeloosstelling.

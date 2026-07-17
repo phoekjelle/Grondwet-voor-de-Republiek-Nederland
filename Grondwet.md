@@ -51,26 +51,14 @@ Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of verne
 ## § 4. Vrijheden
 
 ### Artikel 11
-Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid mag aan niemand worden ontnomen, anders dan volgens de bij de wet bepaalde procedure in het geval van:
-   1. de rechtmatige detentie van de persoon aan wie een daartoe bevoegde rechter voorafgaand een veroordeling tot detentie heeft opgelegd;
-   2. de rechtmatige arrestatie of detentie van een persoon, wegens:
+1. Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid mag aan niemand worden ontnomen, anders dan volgens de bij de wet bepaalde procedure in het geval van:
+   - a. de rechtmatige detentie van de persoon aan wie een daartoe bevoegde rechter voorafgaand een veroordeling tot detentie heeft opgelegd;
+   - b. de rechtmatige arrestatie of detentie van een persoon, wegens:
       - het niet naleven van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel,
       - teneinde nakoming van een door een wettelijke regeling voorgeschreven uitdrukkelijke verplichting te verzekeren;
-   3. de rechtmatige arrestatie of detentie van een persoon teneinde voor de bevoegde rechterlijke instatie te worden geleid, wanneer er redelijke gronden zijn om te vermoeden, dat diegene een strafbaar feit heeft begaan, of indien er redelijke gronden zijn om aan te nemen, dat het noodzakelijk is om diegene te beletten:
+   - c. de rechtmatige arrestatie of detentie van een persoon teneinde voor de bevoegde rechterlijke instatie te worden geleid, wanneer er redelijke gronden zijn om te vermoeden, dat diegene een strafbaar feit heeft begaan, of indien er redelijke gronden zijn om aan te nemen, dat het noodzakelijk is om diegene te beletten:
       - om een strafbaar feit te begaan,
       - om te ontvluchten, nadat diegene een strafbaar feit heeft begaan,
       - om het strafrechtelijk onderzoek in gevaar te brengen;
-
-
-
-Iedereen heeft recht op vrijheid en persoonlijke veiligheid. Niemands vrijheid mag worden ontnomen, behalve volgens een bij de wet bepaalde procedure in het geval van:
-1. rechtmatige detentie na veroordeling van een daartoe bevoegde rechter;
-2. rechtmatige arrestatie of detentie, wegens het niet opvolgen van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel of teneinde de nakoming van een door een wettelijke regeling voorgeschreven uitdrukkelijke verplichting te verzekeren;
-3. rechtmatige arrestatie of detentie teneinde voor een bevoegde rechterlijke instantie te worden geleid, wanneer er redelijke gronden zijn om te vermoeden, dat diegene een strafbaar feit heeft begaan, of indien er gronden zijn om aan te nemen, dat het noodzakelijk is diegene te beletten:
-   - een strafbaar feit te begaan;
-   - te ontvluchten, nadat diegene een strafbaar feit heeft begaan;
-   - het strafrechtelijk onderzoek in gevaar te brengen;
-4. (rechtmatige detentie van een minderjarige met het doel in te grijpen in de opvoeding of, in het geval van diens rechtmatige detentie, teneinde hem voor het bevoegde gezag te geleiden;)
-5. rechtmatige detentie van personen teneinde hen te beletten op onrechtmatige wijze het land binnen te komen, of indien tegen hen een uitwijzigings- of uitleveringsprocedure hangende is voor een strafbaar feit dat tevens in Nederland strafbaar is.
-
-
+   - d. de rechtmatige detentie van een minderjarige met als doel in te grijpen in de opvoeding op last van een door een daartoe bevoegde rechter gegeven met reden bekleed bevel, of de rechtmatige detentie van een minderjarige teneinde diegene voor de bevoegde instantie te geleiden;
+   - e. de rechtmatige detentie van een persoon teneinde diegene te beletten op onrechtmatige wijze het land binnen te komen, of indien tegen diegene een uitwijzings- of uitleveringsprocedure hangende is.

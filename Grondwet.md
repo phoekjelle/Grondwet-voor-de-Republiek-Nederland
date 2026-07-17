@@ -16,15 +16,14 @@ Overheidsinstellingen bezitten alleen bevoegdheden die hun uitdrukkelijk bij of 
 
 ### Artikel 4
 1. De volgende Grondrechten binden alle wetgevende, uitvoerende en rechterlijke machten als rechtstreeks toepasbaar recht.
-2. Zij mogen niet worden uitgelegd als beperking van de door verdragen verworven rechten, behoudens de bepalingen in het derde en vierde lid van artikel 5.
+2. Zij mogen niet worden uitgelegd als beperking van de door verdragen verworven rechten, behoudens de bepalingen in het derde lid van artikel 5.
 
 ## § 2. Gelijkheid
 
 ### Artikel 5
 1. Alle mensen zijn gelijk voor de wet.
-2. De staat mag niemand benadelen of bevoordelen op grond van ras, kleur, geslacht, gender, etnische of sociale afkomst, het behoren tot een nationale minderheid, geboorte, genetische kenmerken, handicap, zwangerschap of seksuele gerichtheid.
-3. De bevoordeling van de positie van personen of categorieën personen op een grond van het tweede lid is toegestaan, indien wordt vastgesteld dat zij een legitiem doel dient en proportioneel is ten opzichte van dat doel.
-4. Ingevolge het derde lid bevordert de staat de positie van personen of categorieën personen, die worden benadeld door feitelijke discriminatie, met als doel de bestaande nadelen weg te nemen.
+2. De staat mag niemand benadelen of bevoordelen op grond van ras, kleur, geslacht, gender, etnische of sociale afkomst, het behoren tot een nationale minderheid, cultuur, taal, godsdienst of overtuiging, geboorte, genetische kenmerken, handicap, zwangerschap of seksuele gerichtheid.
+3. Bij of krachtens de wet worden maatregelen gesteld die de positie van personen of categorieën personen, die door feitelijke discriminatie worden benadeeld, bevordert met als doel de bestaande nadelen weg te nemen. De bevordering, op een grond door het tweede lid verboden, is toegestaan, indien wordt vastgesteld dat zij dient om de bestaande nadelen weg te nemen en zij proportioneel is ten opzichte van dit doel.
 
 ## § 3. Waardigheid
 
@@ -52,7 +51,16 @@ Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of verne
 ## § 4. Vrijheden
 
 ### Artikel 11
-Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid kan aan niemand worden ontnomen, behalve volgens een bij de wet bepaalde procedure un het geval van:
+Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid mag aan niemand worden ontnomen, anders dan volgens de bij de wet bepaalde procedure in het geval van:
+   1. de rechtmatige detentie van de persoon aan wie een daartoe bevoegde rechter voorafgaand een veroordeling tot detentie heeft opgelegd;
+   2. de rechtmatige arrestatie of detentie van een persoon, wegens:
+      - het niet naleven van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel,
+      - teneinde nakoming van een door een wettelijke regeling voorgeschreven uitdrukkelijke verplichting te verzekeren;
+   3. de rechtmatige arrestatie of detentie van een persoon teneinde voor de bevoegde rechterlijke instatie te worden geleid, wanneer er redelijke gronden zijn om te vermoeden, dat diegene een strafbaar feit heeft begaan, of indien er redelijke gronden zijn om aan te nemen, dat het noodzakelijk is om diegene te beletten:
+      - om een strafbaar feit te begaan,
+      - om te ontvluchten, nadat diegene een strafbaar feit heeft begaan,
+      - om het strafrechtelijk onderzoek in gevaar te brengen;
+
 
 
 Iedereen heeft recht op vrijheid en persoonlijke veiligheid. Niemands vrijheid mag worden ontnomen, behalve volgens een bij de wet bepaalde procedure in het geval van:

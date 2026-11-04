@@ -1,4 +1,4 @@
-# Hoofdstuk 1. Algemene bepalingen
+
 ### Artikel 1.
 1. De Republiek Nederland is een democratische rechtsstaat gebaseerd op de soevereiniteit van het volk.
 2. Zij handelt uitsluitend bij of krachtens de wet en binnen de grenzen die de wet stelt.

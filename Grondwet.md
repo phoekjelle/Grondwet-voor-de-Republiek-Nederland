@@ -7,7 +7,7 @@
 # Hoofdstuk 2. Grondrechten
 ## § 1. Algemene bepalingen
 ### Artikel 2.
-1. Nederland erkent de democratische waarden van vrijheid, gelijkheid en gerechtigheid als basis voor elke Maatschappelijke Vereniging in de wereld.
+1. Het Nederlandse volk beschouwt de democratische waarden van vrijheid, gelijkheid en gerechtigheid als de basis voor elke Maatschappelijke Vereniging in de wereld.
 2. Daarom binden de volgende grondrechten de uitvoerende, wetgevende en rechterlijke macht als rechtstreeks toepasbaar recht.
 ## § 2. Waardigheid
 ### Artikel 3.

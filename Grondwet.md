@@ -1,17 +1,24 @@
 # Hoofdstuk 1. Algemene bepalingen
+
 ### Artikel 1.
 1. De Republiek Nederland is een democratische rechtsstaat gebaseerd op de soevereiniteit van het volk.
 2. Zij handelt uitsluitend bij of krachtens de wet en binnen de grenzen die de wet stelt.
 3. Haar handelen moet het algemeen belang dienen en proportioneel zijn.
 4. Zij eerbiedigt en waarborgt de fundamentele rechten en het internationaal volkerenrecht.
+
 # Hoofdstuk 2. Grondrechten
+
 ## § 1. Algemene bepalingen
+
 ### Artikel 2.
 1. Het Nederlandse volk beschouwt de democratische waarden van vrijheid, gelijkheid en gerechtigheid als de basis voor elke Maatschappelijke Vereniging in de wereld.
 2. Daarom binden de volgende grondrechten de uitvoerende, wetgevende en rechterlijke macht als rechtstreeks toepasbaar recht.
+
 ## § 2. Waardigheid
+
 ### Artikel 3.
 De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht op de eerbiediging en waarborgen daarvan.
+
 ### Artikel 4.
 Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 
@@ -19,6 +26,18 @@ Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 - het verbod op de doodstraf.
 
 ### Artikel 5.
+Iedereen heeft recht op lichamelijke en geestelijke integriteit. Dit recht omvat het recht:
+
+- op veiligheid en zekerheid over het eigen lichaam;
+- om vrije keuzes te maken over het eigen lichaam, waarbij inbegrepen keuzes over de voortplanting;
+- om niet te worden onderworpen aan medische of wetenschappelijke experimenten, zonder de vrije en geïnformeerde toestemming van de betrokkene.
+
+# Artikel 6.
+1. Niemand mag worden onderworpen aan slavernij of dienstbaarheid.
+2. Niemand mag worden onderworpen aan folteringen, onmenselijke of vernederende behandelingen of bestraffingen.
+3. Tenzij anders bepaald bij of krachtens de Grondwet kan geen werk worden gevorderd, dan de door het strafhof overeenkomstig de wet opgelegde werkstraf.
+
+## § 3. Vrijheden
 
 # Hoofdstuk 1. Algemene bepalingen
 

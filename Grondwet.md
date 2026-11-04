@@ -3,20 +3,22 @@
 1. De Republiek Nederland is een democratische rechtsstaat gebaseerd op de soevereiniteit van het volk.
 2. Zij handelt uitsluitend bij of krachtens de wet en binnen de grenzen die de wet stelt.
 3. Haar handelen moet het algemeen belang dienen en proportioneel zijn.
-4. Zij eerbiedigt en waarborgt de fundamentele rechtsbeginselen en het internationaal volkerenrecht.
-
+4. Zij eerbiedigt en waarborgt de fundamentele rechten en het internationaal volkerenrecht.
 # Hoofdstuk 2. Grondrechten
-## § 1. Algemene bepaling
+## § 1. Algemene bepalingen
 ### Artikel 2.
-
-
-1. De aangeboren menselijk waardigheid is onschendbaar en iedereen heeft recht op de eerbiediging en waarborging daarvan.
-2. Daarom erkent Nederland fundamentele rechten als de basis voor elke Maatschappelijke Vereniging in de wereld.
-3. De volgende grondrechten binden de uitvoerende, wetgevende en rechterlijke macht als rechtstreeks toepasbaar recht.
+1. Nederland erkent de democratische waarden van vrijheid, gelijkheid en gerechtigheid als basis voor elke Maatschappelijke Vereniging in de wereld.
+2. Daarom binden de volgende grondrechten de uitvoerende, wetgevende en rechterlijke macht als rechtstreeks toepasbaar recht.
 ## § 2. Waardigheid
 ### Artikel 3.
+De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht op de eerbiediging en waarborgen daarvan.
+### Artikel 4.
+Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 
+- het recht op de verdediging van het eigen leven of de levens van anderen tegen levensbedreigend geweld;
+- het verbod op de doodstraf.
 
+### Artikel 5.
 
 # Hoofdstuk 1. Algemene bepalingen
 

@@ -4,33 +4,24 @@
 1. De Republiek Nederland is een democratische rechtsstaat gebaseerd op de soevereiniteit van het volk.
 2. Zij handelt uitsluitend bij of krachtens de wet en binnen de grenzen die de wet stelt.
 3. Haar handelen moet het algemeen belang dienen en proportioneel zijn.
-4. Zij eerbiedigt en waarborgt de fundamentele rechten en het internationaal volkerenrecht.
+4. Zij eerbiedigt en waarborgt de mensenrechten en het internationaal volkerenrecht.
 
 # Hoofdstuk 2. Grondrechten
 
-## § 1. Algemene bepalingen
-
 ### Artikel 2.
 1. Alle mensen worden vrij en gelijk in waardigheid en rechten geboren.
-2. Het is daarom dat het Nederlandse volk onschendbare en onvervreemdbare rechten erkent als de basis van elke menselijke samenleving in de wereld.
-3. De volgende grondrechten binden de wetgevende, uitvoerende en rechterlijke macht als rechtstreeks toepasbaar recht.
-
-## § 2. Gelijkheid
+2. Het Nederlandse volk erkent daarom de onschendbare en onvervreemdbare mensenrechten als basis van elke menselijke gemeenschap, van vrede en van rechtvaardigheid in de wereld.
+3. De volgende grondrechten zijn bindend voor de wetgevende, uitvoerende en rechterlijke macht als rechtstreeks toepasselijk recht.
 
 ### Artikel 3.
 1. Allen zijn gelijk voor de wet en hebben zonder onderscheid aanspraak op gelijke bescherming door de wet.
-2. Gelijkheid omvat het volledige genot van alle rechten en vrijheden zonder onderscheid. De wet stelt regels om gelijkheid te bevorderen door de benadeelde mensen of categorieën mensen te beschermen of te bevorderen.
-3. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of geaardheid, etnische of maatschappelijke afkomst, geboorte, geweten, geloof, cultuur, taal of op welke grond dan ook, is niet toegestaan.
-
-## § 2. Waardigheid
-
-### Artikel 3.
-
+2. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of geaardheid, etnische of maatschappelijke afkomst, geboorte, geweten, geloof, cultuur, taal of op welke grond dan ook, is niet toegestaan.
+3. Gelijkheid houdt in dat alle rechten en vrijheden volledig en zonder onderscheid worden genoten. De wet kan regels stellen ter bevordering van gelijkheid door bestaande nadelen weg te nemen.
 
 ### Artikel 4.
 Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 
-- het recht op de noodzakelijke verdediging van het eigen leven, of de levens van anderen, tegen ogenblikkelijk levensbedreigend geweld;
+- het recht op de noodzakelijke verdediging;
 - het verbod op disproportioneel staatsgeweld;
 - het verbod op de doodstraf.
 

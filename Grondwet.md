@@ -11,18 +11,18 @@
 ## § 1. Algemene bepalingen
 
 ### Artikel 2.
-1. Het Nederlandse volk beschouwt de democratische waarden van vrijheid, gelijkheid en gerechtigheid als de basis voor iedere vorm van menselijke samenleving in de wereld.
+1. Het Nederlandse volk beschouwt de democratische waarden van vrijheid, gelijkheid en gerechtigheid als de basis van iedere menselijke samenleving wereldwijd.
 2. Daarom binden de volgende grondrechten de uitvoerende, wetgevende en rechterlijke macht als rechtstreeks toepasbaar recht.
 
 ## § 2. Waardigheid
 
 ### Artikel 3.
-De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht op de eerbiediging en waarborging daarvan.
+De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht op de eerbiediging en waarborgen daarvan.
 
 ### Artikel 4.
 Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 
-- het recht op de verdediging van het eigen leven, of de levens van anderen, tegen levensbedreigend geweld;
+- het recht op de noodzakelijke verdediging van het eigen leven, of de levens van anderen, tegen ogenblikkelijk levensbedreigend geweld;
 - het verbod op disproportioneel staatsgeweld;
 - het verbod op de doodstraf.
 
@@ -32,6 +32,8 @@ Iedereen heeft recht op lichamelijke en geestelijke integriteit. Dit recht omvat
 - op veiligheid en zekerheid over het eigen lichaam;
 - om vrije keuzes te maken over het eigen lichaam, waarbij inbegrepen keuzes over de voortplanting;
 - om niet te worden onderworpen aan medische of wetenschappelijke experimenten, zonder de vrije en geïnformeerde toestemming van de betrokkene.
+
+
 
 # Artikel 6.
 1. Niemand mag worden onderworpen aan slavernij of dienstbaarheid.

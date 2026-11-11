@@ -17,7 +17,7 @@
 ## § 2. Waardigheid
 
 ### Artikel 3.
-De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht op de eerbiediging en waarborgen daarvan.
+De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht op de eerbiediging en waarborging daarvan.
 
 ### Artikel 4.
 Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:

@@ -27,6 +27,9 @@ Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 - het verbod op de doodstraf.
 
 ### Artikel 5.
+Iedereen heeft recht op 
+
+
 Iedereen heeft recht op lichamelijke en geestelijke integriteit. Dit recht omvat het recht:
 
 - op veiligheid en zekerheid over het eigen lichaam;

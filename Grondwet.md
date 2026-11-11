@@ -11,7 +11,7 @@
 ## § 1. Algemene bepalingen
 
 ### Artikel 2.
-1. Het Nederlandse volk beschouwt de democratische waarden van vrijheid, gelijkheid en gerechtigheid als de basis voor elke Maatschappelijke Vereniging in de wereld.
+1. Het Nederlandse volk beschouwt de democratische waarden van vrijheid, gelijkheid en gerechtigheid als de basis voor iedere vorm van menselijke samenleving in de wereld.
 2. Daarom binden de volgende grondrechten de uitvoerende, wetgevende en rechterlijke macht als rechtstreeks toepasbaar recht.
 
 ## § 2. Waardigheid
@@ -23,6 +23,7 @@ De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht
 Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 
 - het recht op de verdediging van het eigen leven of de levens van anderen tegen levensbedreigend geweld;
+- het verbod op disproportioneel staatsgeweld;
 - het verbod op de doodstraf.
 
 ### Artikel 5.

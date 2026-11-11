@@ -11,13 +11,21 @@
 ## § 1. Algemene bepalingen
 
 ### Artikel 2.
-1. Het Nederlandse volk beschouwt de democratische waarden van vrijheid, gelijkheid en gerechtigheid als de basis van iedere menselijke samenleving wereldwijd.
-2. Daarom binden de volgende grondrechten de uitvoerende, wetgevende en rechterlijke macht als rechtstreeks toepasbaar recht.
+1. Alle mensen worden vrij en gelijk in waardigheid en rechten geboren.
+2. Het is daarom dat het Nederlandse volk onschendbare en onvervreemdbare rechten erkent als de basis van elke menselijke samenleving in de wereld.
+3. De volgende grondrechten binden de wetgevende, uitvoerende en rechterlijke macht als rechtstreeks toepasbaar recht.
+
+## § 2. Gelijkheid
+
+### Artikel 3.
+1. Allen zijn gelijk voor de wet en hebben zonder onderscheid aanspraak op gelijke bescherming door de wet.
+2. Gelijkheid omvat het volledige genot van alle rechten en vrijheden zonder onderscheid. De wet stelt regels om gelijkheid te bevorderen door de benadeelde mensen of categorieën mensen te beschermen of te bevorderen.
+3. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of geaardheid, etnische of maatschappelijke afkomst, geboorte, geweten, geloof, cultuur, taal of op welke grond dan ook, is niet toegestaan.
 
 ## § 2. Waardigheid
 
 ### Artikel 3.
-De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht op de eerbiediging en waarborgen daarvan.
+
 
 ### Artikel 4.
 Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:

@@ -22,7 +22,7 @@ De aangeboden menselijke waardigheid is onschendbaar en iedereen heeft het recht
 ### Artikel 4.
 Ieders recht op leven wordt bij de wet beschermd, met inachtneming van:
 
-- het recht op de verdediging van het eigen leven of de levens van anderen tegen levensbedreigend geweld;
+- het recht op de verdediging van het eigen leven, of de levens van anderen, tegen levensbedreigend geweld;
 - het verbod op disproportioneel staatsgeweld;
 - het verbod op de doodstraf.
 

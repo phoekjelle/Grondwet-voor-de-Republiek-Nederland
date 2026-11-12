@@ -43,7 +43,7 @@ Iedereen heeft recht op lichamelijke en geestelijke integriteit. Dit recht omvat
 Niemand mag worden onderworpen aan slavernij, dienstbaarheid of dwangarbeid.
 
 ### Artikel 8.
-1. Bij de wet kunnen Nederlanders van 18 jaar of ouder worden opgeroepen tot de verplichte militaire dienst.
+1. Bij de wet kunnen Nederlanders van achttien jaar of ouder worden opgeroepen tot de verplichte militaire dienst.
 2. Niemand mag tegen zijn geweten in gedwongen worden tot de gewapende militaire dienst.
 
 ### Artikel 9.
@@ -52,85 +52,24 @@ Iedereen heeft het recht gevrijwaard te zijn van willekeurige of ongegronde inme
 - van het willekeurig of ongegrond onderzoeken aan zijn kleding;
 - van willekeurige of ongegronde huiszoekingen of doorzoekingen van eigendommen;
 - van willekeurige of ongegronde inbeslagnemingen van eigendommen;
-- van willekeurige of ongegronde inmenging in zijn (tele)communicatie.
+- van willekeurige of ongegronde inmenging in zijn communicatie.
 
 ### Artikel 10.
 
+# Hoofdstuk 3. Staten-Generaal
 
+## § 1. Inrichting en samenstelling
 
+### Artikel . Inrichting
+1. De Staten-Generaal vertegenwoordigen het gehele Nederlandse volk.
+2. Zij bestaan uit de Tweede Kamer en de Eerste Kamer.
+3. De Tweede Kamer bestaat uit ten minste honderdvijftig leden, het exacte aantal wordt bij de wet bepaald. De daadwerkelijke wijziging van het aantal leden vindt plaats na de Tweede Kamerverkiezingen.
+4. De Eerste Kamer bestaat uit vijfenzeventig leden.
+5. De zittingsduur van beide kamers is vier jaren.
+6. De kamers vergaderen ten minste eens per negentig dagen.
 
-# Artikel 6.
-1. Niemand mag worden onderworpen aan slavernij of dienstbaarheid.
-2. Niemand mag worden onderworpen aan folteringen, onmenselijke of vernederende behandelingen of bestraffingen.
-3. Tenzij anders bepaald bij of krachtens de Grondwet kan geen werk worden gevorderd, dan de door het strafhof overeenkomstig de wet opgelegde werkstraf.
+# Hoofdstuk 4. Regering
 
-## § 3. Vrijheden
+# Hoofdstuk 5. Rechtspraak
 
-# Hoofdstuk 1. Algemene bepalingen
-
-### Artikel 1
-1. De Grondwet waarborgt de democratische rechtsstaat.
-2. Zij waarborgt de menselijke waardigheid, de gelijkheid van iedereen voor de wet, het legaliteitsbeginsel, de scheiding der machten, het algemeen kiesrecht voor volwassenen, het parlementaire meerpartijenstelsel en de overige fundamentele rechtsbeginselen.
-
-### Artikel 2
-De Grondwet is de hoogste wet van Nederland; wetten of verdragen die ermee in strijd zijn, missen rechtskracht.
-
-### Artikel 3
-Overheidsinstellingen bezitten alleen bevoegdheden die hun uitdrukkelijk bij of krachtens de Grondwet of de wet zijn toegekend.
-
-# Hoofdstuk 2. Grondrechten
-
-## § 1. Algemeen
-
-### Artikel 4
-1. De volgende Grondrechten binden alle wetgevende, uitvoerende en rechterlijke machten als rechtstreeks toepasbaar recht.
-2. Zij mogen niet worden uitgelegd als beperking van de door verdragen verworven rechten, behoudens de bepalingen in het derde lid van artikel 5.
-
-## § 2. Gelijkheid
-
-### Artikel 5
-1. Alle mensen zijn gelijk voor de wet.
-2. De staat mag niemand benadelen of bevoordelen op grond van ras, kleur, geslacht, gender, etnische of sociale afkomst, het behoren tot een nationale minderheid, cultuur, taal, godsdienst of overtuiging, geboorte, genetische kenmerken, handicap, zwangerschap of seksuele gerichtheid.
-3. Bij of krachtens de wet worden maatregelen gesteld die de positie van personen of categorieën personen, die door feitelijke discriminatie worden benadeeld, bevordert met als doel de bestaande nadelen weg te nemen. De bevordering, op een grond door het tweede lid verboden, is toegestaan, indien wordt vastgesteld dat zij dient om de bestaande nadelen weg te nemen en zij proportioneel is ten opzichte van dit doel.
-
-## § 3. Waardigheid
-
-### Artikel 6
-Iedereen heeft aangeboren menselijke waardigheid. Zij is onschendbaar; de staat beschermt haar.
-
-### Artikel 7
-1. Iedereen heeft recht op leven. De wet beschermt dit recht.
-2. Niemand mag worden onderworpen aan onrechtmatig of disproportioneel geweld.
-3. De doodstraf mag niet worden opgelegd of uitgevoerd.
-
-### Artikel 8
-1. Niemand mag in slavernij of horigheid worden gehouden.
-2. Niemand mag worden gedwongen dwangarbeid of verplichte arbeid te verrichten.
-3. Mensenhandel is verboden.
-
-### Artikel 9
-Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of vernederende behandeling of straf.
-
-### Artikel 10
-1. Iedereen heeft recht op lichamelijke en geestelijke integriteit.
-2. Niemand mag aan een medische behandeling of een wetenschappelijk onderzoek worden onderworpen zonder de vrije en geïnformeerde toestemming van de betrokkene.
-3. Eugenetische praktijken zijn verboden.
-
-## § 4. Vrijheden
-
-### Artikel 11
-1. Iedereen heeft recht op vrijheid en persoonlijke veiligheid. De vrijheid mag aan niemand worden ontnomen, anders dan volgens de bij de wet bepaalde procedure in het geval van:
-   - a. de rechtmatige detentie van de persoon aan wie een daartoe bevoegde rechter voorafgaand een veroordeling tot detentie heeft opgelegd;
-   - b. de rechtmatige arrestatie of detentie van een persoon, wegens:
-      - het niet naleven van een overeenkomstig een wettelijke regeling door een rechter gegeven bevel;
-      - teneinde nakoming van een door een wettelijke regeling voorgeschreven uitdrukkelijke verplichting te verzekeren;
-   - c. de rechtmatige arrestatie of detentie van een persoon teneinde voor de bevoegde rechterlijke instatie te worden geleid, wanneer er redelijke gronden zijn om te vermoeden, dat diegene een strafbaar feit heeft begaan, of indien er redelijke gronden zijn om aan te nemen, dat het noodzakelijk is om diegene te beletten:
-      - om een strafbaar feit te begaan;
-      - om te ontvluchten, nadat diegene een strafbaar feit heeft begaan;
-      - om het strafrechtelijk onderzoek in gevaar te brengen;
-   - d. de rechtmatige detentie van een minderjarige met als doel in te grijpen in de opvoeding op last van een door een daartoe bevoegde rechter gegeven met reden bekleed bevel, of de rechtmatige detentie van een minderjarige teneinde diegene voor de bevoegde instantie te geleiden;
-   - e. de rechtmatige detentie van een persoon teneinde diegene te beletten op onrechtmatige wijze het land binnen te komen, of indien tegen diegene een uitwijzings- of uitleveringsprocedure hangende is.
-2. Iedereen die is gearresteerd moet onverwijld en in een taal die diegene verstaat op de hoogte worden gebracht van de redenen van de arrestatie en van alle beschuldigingen die tegen diegene zijn ingebracht.
-3. Iedereen die is gearresteerd of gedeteneerd overeenkomstig het eerste lid, onder c. van dit artikel, moet onverwijld voor een daartoe bevoegde rechter worden geleid en heeft het recht om spoedig en binnen tweeënzeventig uur berecht te worden of hangende het proces in vrijheid te worden gesteld. De invrijheidstelling kan afhankelijk worden gesteld van een waarborg voor de verschijning van de betrokkene ter terechtzitting.
-4. Iedereen aan wie door arrestatie of detentie of anderzijds de vrijheid is ontnomen, heeft het recht voorziening te vragen bij het gerecht opdat deze spoedig en binnen tweeënzeventig uur beslist over de rechtmatigheid van zijn detentie en zijn invrijheidstelling beveelt, indien de detentie onrechtmatig is.
-5. Iedereen die het slachtoffer is geweest van een arrestatie of een detentie in strijd met de bepalingen van dit artikel, heeft recht op schadeloosstelling.
+# Hoofdstuk 6.

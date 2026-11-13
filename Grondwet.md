@@ -58,15 +58,30 @@ Iedereen heeft het recht gevrijwaard te zijn van willekeurige of ongegronde inme
 
 # Hoofdstuk 3. Staten-Generaal
 
-## § 1. Inrichting en samenstelling
+## § 1. Samenstelling
 
-### Artikel . Inrichting
+### Artikel 
 1. De Staten-Generaal vertegenwoordigen het gehele Nederlandse volk.
 2. Zij bestaan uit de Tweede Kamer en de Eerste Kamer.
-3. De Tweede Kamer bestaat uit ten minste honderdvijftig leden, het exacte aantal wordt bij de wet bepaald. De daadwerkelijke wijziging van het aantal leden vindt plaats na de Tweede Kamerverkiezingen.
-4. De Eerste Kamer bestaat uit vijfenzeventig leden.
-5. De zittingsduur van beide kamers is vier jaren.
-6. De kamers vergaderen ten minste eens per negentig dagen.
+3. De zittingsduur van beide kamers is vier jaren.
+4. Beide kamers komen elk ten minste eens per negentig dagen bijeen.
+
+## § 2. Tweede Kamer
+
+### Artikel
+1. De leden van de Tweede Kamer worden rechtstreeks gekozen op grondslag van grondslag van evenredige vertegenwoordiging. Elke kiezer heeft één stem. 
+2. De Tweede Kamer bestaat uit ten minste honderdvijftig leden, het exacte aantal wordt bij wet bepaald. De daadwerkelijke wijziging van het aantal leden vindt plaats na tussenkomst van genoemde verkiezingen.
+
+### Artikel
+
+
+## § 3. Eerste Kamer
+
+### Artikel
+De Eerste Kamer bestaat uit vijfenzeventig leden elke 
+## § 4. Werkwijze
+
+
 
 # Hoofdstuk 4. Regering
 

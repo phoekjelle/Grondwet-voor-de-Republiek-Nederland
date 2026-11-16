@@ -61,26 +61,57 @@ Iedereen heeft het recht gevrijwaard te zijn van willekeurige of ongegronde inme
 ## § 1. Volksvertegenwoordiging
 
 ### Artikel
-De Staten-Generaal vertegenwoordigen het gehele Nederlandse volk.
-Zij bestaan uit de Tweede Kamer en de Eerste Kamer.
-
+1. De Staten-Generaal bestaan uit de Tweede Kamer en de Senaat.
+2. Beide kamers vertegenwoordigen het gehele Nederlandse volk.
+   
 ## § 2. Tweede Kamer
 
 ### Artikel
-1. De Tweede Kamer bestaat uit minstens honderdvijftig en hoogstens tweehonderdvijftig leden. Het exacte aantal wordt bij wet bepaald, maar blijft ongewijzigd gedurende de huidige legislatuur.
+1. De Tweede Kamer vertegenwoordigt de Nederlanders in het gehele land.
+1. Zij bestaat uit minstens honderdvijftig en hoogstens tweehonderdvijftig leden. Het exacte aantal wordt bij wet bepaald, maar blijft ongewijzigd gedurende de huidige legislatuur.
 2. Haar leden worden iedere vier jaar rechtstreeks gekozen op grondslag van evenredige vertegenwoordiging.
 
 ## § 3. Eerste Kamer
 
 ### Artikel
-1. Eerste Kamerleden vertegenwoordigen de bevolking van 
-1. Eerste Kamerleden worden gekozen door de leden van Provinciale Staten in elke provincie. De zetels worden aan de provincies verdeeld in verhouding van hun respectievelijke bevolkingscijfers, maar elke provincie krijgt minstens drie en hoogstens vijftien zetels. Het exacte aantal en de exacte verdeling worden bij wet bepaald.
-3. Elk tweede jaar verkiezen de leden van de Proviciale Staten eenderde van hun respectievelijke delegaties in de Eerste Kamer.
-4. Eerste Kamerleden leggen verantwoording af aan hun respectievelijke 
-
+1. De Senaat vertegenwoordigt de Nederlanders in elke provincie.
+2. Elk tweede jaar verkiezen de leden van de Proviciale Staten eenderde van hun respectievelijke delegaties in de Senaat. De omvang van elke delegatie staat in verhouding tot de bevolkingcijfers van elke provincie, maar elke provincie heeft minstens drie en hoogstens vijftien Senatoren. Het exacte ledenaantal en hun exacte verdeling worden bij de wet bepaald.
 
 # Hoofdstuk 4. Regering
 
 # Hoofdstuk 5. Rechtspraak
 
-# Hoofdstuk 6.
+# Hoofdstuk 6. Decentralisatie
+
+## § 1. 
+
+### Artikel
+1. De Republiek op het Europese continent omvat twaalf provincies: 
+
+ - Drenthe;
+ - Flevoland;
+ - Fryslân (Friesland);
+ - Gelderland;
+ - Groningen;
+ - Limburg;
+ - Noord-Brabant;
+ - Noord-Holland;
+ - Overijssel;
+ - Utrecht;
+ - Zeeland;
+ - Zuid-Holland.
+
+Hun grenzen en hun onderverdeling in gemeentes worden bij de wet bepaald.
+
+2. De Republiek in de Caraïbische Zee omvat één provincie, de Antillen, zij omvat de gemeentes:
+
+ - Aruba;
+ - Bonaire;
+ - Curaçao;
+ - Saba;
+ - Sint Eustatius;
+ - Sint Maarten.
+
+Vanwege hun historie en geografische ligging kan de provincie de Antillen en de gemeentes die zij omvat bij de wet andere rechten en plichten toekomen dan de provincies en gemeentes op het Europese continent.
+
+### Artikel

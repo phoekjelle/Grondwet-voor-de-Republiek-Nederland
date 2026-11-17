@@ -15,7 +15,7 @@
 
 ### Artikel 3.
 1. Allen zijn gelijk voor de wet en hebben zonder onderscheid aanspraak op gelijke bescherming door de wet.
-2. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of geaardheid, etnische of maatschappelijke afkomst, geboorte, geweten, geloof, cultuur, taal of op welke grond dan ook, is niet toegestaan.
+2. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, zwangerschap, handicap, seksuele gerichtheid of geaardheid, etnische of maatschappelijke afkomst, geboorte, geweten, geloof, cultuur, taal of op welke grond dan ook, is niet toegestaan.
 3. Gelijkheid houdt in dat alle rechten en vrijheden volledig en zonder onderscheid worden genoten. De wet kan regels stellen ter bevordering van gelijkheid door bestaande nadelen weg te nemen.
 
 ### Artikel 4.
@@ -43,18 +43,27 @@ Iedereen heeft recht op lichamelijke en geestelijke integriteit. Dit recht omvat
 Niemand mag worden onderworpen aan slavernij, dienstbaarheid of dwangarbeid.
 
 ### Artikel 8.
-1. Bij de wet kunnen Nederlanders van achttien jaar of ouder worden opgeroepen tot de verplichte militaire dienst.
-2. Niemand mag tegen zijn geweten in gedwongen worden tot de gewapende militaire dienst.
+Iedereen heeft het recht gevrijwaard te zijn van willekeurige of ongegronde inmenging in zijn persoonlijke aangelegenheden. Dit recht omvat het recht gevrijwaard te zijn van willekeurige of ongegronde:
+
+- onderzoeken aan zijn kleding;
+- huiszoekingen of doorzoekingen van eigendommen;
+- inbeslagnemingen van eigendommen;
+- inmenging in of afluistering van zijn communicatie.
 
 ### Artikel 9.
-Iedereen heeft het recht gevrijwaard te zijn van willekeurige of ongegronde inmenging in zijn persoonlijke aangelegenheden. Dit recht omvat het recht gevrijwaard te zijn:
-
-- van het willekeurig of ongegrond onderzoeken aan zijn kleding;
-- van willekeurige of ongegronde huiszoekingen of doorzoekingen van eigendommen;
-- van willekeurige of ongegronde inbeslagnemingen van eigendommen;
-- van willekeurige of ongegronde inmenging in zijn communicatie.
+De vrijheid van gedachte, geweten en overtuiging is onschendbaar.
 
 ### Artikel 10.
+Niemand jonger dan achttien jaar mag worden gedwongen tot krijgsdienst met wapens. Ook volwassenen die daartegen gewetensbezwaren hebben, mogen daartoe niet worden gedwongen.
+
+
+
+
+(1) Iedereen heeft recht op vrijheid van geweten, godsdienst, gedachte, overtuiging en mening. (2) Religieuze vieringen mogen worden gehouden in staats- of door de staat gesteunde instellingen, mits: (a) deze vieringen de regels volgen die zijn vastgesteld door de bevoegde overheidsinstanties; (b) ze op een billijke basis worden gehouden; en (c) deelname eraan vrijwillig is. (3) (a) Dit artikel belet niet dat wetgeving wordt aangenomen die: (i) huwelijken erkent die zijn gesloten volgens een traditie of een systeem van religieus, persoonlijk of familierecht; of (ii) systemen van persoonlijk en familierecht erkent volgens een traditie of die worden aangehangen door personen die een bepaalde religie belijden. (b) Erkenning in de zin van lid (a) moet in overeenstemming zijn met dit artikel en de andere bepalingen van de Grondwet.
+
+### Artikel 10.
+1. Bij de wet kunnen Nederlanders van achttien jaar of ouder worden opgeroepen tot de verplichte militaire dienst.
+2. Niemand mag tegen zijn geweten in gedwongen worden tot de gewapende militaire dienst.
 
 # Hoofdstuk 3. Staten-Generaal
 

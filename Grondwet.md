@@ -51,10 +51,13 @@ Iedereen heeft het recht gevrijwaard te zijn van willekeurige of ongegronde inme
 - inmenging in of afluistering van zijn communicatie.
 
 ### Artikel 9.
-De vrijheid van gedachte, geweten en overtuiging is onschendbaar.
+Het recht op de vrijheid van gedachte, geweten, geloof en overtuiging is onschendbaar.
 
 ### Artikel 10.
-Niemand jonger dan achttien jaar mag worden gedwongen tot krijgsdienst met wapens. Ook volwassenen die daartegen gewetensbezwaren hebben, mogen daartoe niet worden gedwongen.
+Niemand jonger dan achttien jaar zal tot de krijgsdienst met het wapen gedwongen worden, noch volwassenen die daartegen gewetensbezwaren hebben zullen daartoe gedwongen worden. Geen verplichte krijgsdienst zal worden ingevoerd, dan bij meerderheid van stemmen in beide Kamers der Staten-Generaal. 
+
+### Artikel 11.
+De vrijheid van godsdienst  vrije openbare uitoefening van godsdienst, alsmede 
 
 
 
